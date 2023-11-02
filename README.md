@@ -3,10 +3,10 @@
 ### I'm a python developer!
 
 ### Some in formation about me:
-- ### In 2023 he graduated from the University with a degree in applied informatics
-- ### I'm 22
-- ### Smart
-- ### Insanely beautiful
+- In 2023 he graduated from the University with a degree in applied informatics
+- I'm 22
+- Smart
+- Insanely beautiful
 
 ## Hello, I'm Arkadiy Kharutkin
 
