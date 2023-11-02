@@ -31,8 +31,3 @@
  &nbsp; CSS3<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><br><br>
  &nbsp; Linux<img align="left" alt="HTML5" width="26px" src="https://www.pngall.com/wp-content/uploads/5/Linux-PNG-Image-HD.png"><br><br></b>
 
-## My latest projects:
-
->- __easy_sql__
->- __School-bot__
->- __weather_bot__
