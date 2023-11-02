@@ -28,7 +28,7 @@
 
 ## My latest projects:
 
->- ### easy_sql
->- ### School-bot
->- ### weather_bot
-> ### &nbsp;&nbsp;
+>- #### easy_sql
+>- #### School-bot
+>- #### weather_bot
+> #### &nbsp;&nbsp;
