@@ -8,16 +8,6 @@
 - Smart
 - Insanely beautiful
 
-## Hello, I'm Arkadiy Kharutkin
-
-### I'm a python developer!
-
-### Some in formation about me:
-- In 2023 he graduated from the University with a degree in applied informatics
-- I'm 22
-- Smart
-- Insanely beautiful
-
 ## Skills and Tools:
  &nbsp; <b>Python <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 - Telebot
